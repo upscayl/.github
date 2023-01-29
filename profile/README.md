@@ -24,7 +24,10 @@
 **Made by [Nayam Amarshe](https://github.com/NayamAmarshe) and [TGS963](https://github.com/TGS963)**\
 **with ⌨ & 🖱**
 
-<a href="https://t.me/LinuxChats"><img src="https://user-images.githubusercontent.com/25067102/206162242-17f37157-2b47-4437-81c4-cab24569a0d0.png" width="300" /> </a>
+For discussions about Upscayl:   
+<a href="https://t.me/LinuxChats">
+<img src="https://user-images.githubusercontent.com/25067102/215301815-b9922b27-4e65-435a-aa9d-239da0ac61b4.png" width="300px" />
+</a>
 
 </div>
 
