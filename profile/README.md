@@ -25,6 +25,11 @@
 
 - Your laundry 🤓
 
+# Contact
+### Please do not contact for bug fixes or reporting issues. We use [GitHub Issues](https://github.com/upscayl/upscayl/issues) for that. You might not receive any replies if you send bug/issue reports on Email or Telegram.
+- nayam.emikx@aleeas.com
+- [@NayamAmarshe](https://t.me/NayamAmarshe) on Telegram
+
 #
 
 <div align="center">
