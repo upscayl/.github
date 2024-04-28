@@ -11,9 +11,9 @@
 
 </div>
 
-# Welcome to Upscayl 👋 https://upscayl.github.io
+# Welcome to Upscayl 👋 https://upscayl.org
 
-### 🍿 Upscayl is a free and open source desktop application that lets you upscale your low resolution images using advanced AI Models. Upscayl is a Linux-First Application that prioritizes Linux builds but is also cross-platform.
+### 🍿 Upscayl is a free and open source desktop application that lets you upscale your low resolution images using advanced AI Models.
 
 #### 🤓 What can Upscayl do?
 
@@ -30,7 +30,7 @@
 
 # Contact
 ### Please do not contact for bug fixes or reporting issues. We use [GitHub Issues](https://github.com/upscayl/upscayl/issues) for that. You might not receive any replies if you send bug/issue reports on Email or Telegram.
-- nayam.emikx@aleeas.com
+- upscayl@gmail.com
 - [@NayamAmarshe](https://t.me/NayamAmarshe) on Telegram
 
 #
