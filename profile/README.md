@@ -11,7 +11,7 @@
 
 </div>
 
-# Welcome to Upscayl 👋 https://upscayl.org
+# [Welcome to Upscayl 👋](https://upscayl.org)
 
 ### 🍿 Upscayl is a free and open source desktop application that lets you upscale your low resolution images using advanced AI Models.
 
@@ -30,6 +30,7 @@
 
 # Contact
 ### Please do not contact for bug fixes or reporting issues. We use [GitHub Issues](https://github.com/upscayl/upscayl/issues) for that. You might not receive any replies if you send bug/issue reports on Email or Telegram.
+- [Twitter](https://x.com/upscayl)
 - upscayl@gmail.com
 - [@NayamAmarshe](https://t.me/NayamAmarshe) on Telegram
 
@@ -37,9 +38,9 @@
 
 <div align="center">
   
-  For discussions about Upscayl:   
-<a href="https://t.me/LinuxChats">
-<img src="https://user-images.githubusercontent.com/25067102/215301815-b9922b27-4e65-435a-aa9d-239da0ac61b4.png" width="250px" />
+  Follow Upscayl:   
+<a href="https://x.com/upscayl">
+  <img src="https://github.com/upscayl/upscayl/assets/25067102/917dcf6f-452b-43e6-95cd-2c6b0a47913d" width="200px" />
 </a>
 
 **Made by [Nayam Amarshe](https://github.com/NayamAmarshe) and [TGS963](https://github.com/TGS963)**\
